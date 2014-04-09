@@ -1,6 +1,6 @@
 ## Choose your own eggy adventure
 WDI
-Simple exercise to create a story based on user's choices
+Simple exercise given during the first week .The goal is to create a story based on user's choices
 
 So, you are about to make breakfast. You have seen Gordon Ramsey's method
 of making scrambled eggs. Your method works for you sometimes. You've
